@@ -34,4 +34,8 @@ Rails.application.configure do
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
+ 
+  aws_access_key_id: 'AKIAJOPHTHW7FYTQC4MA' 
+aws_secret_access_key: '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'
+fog_directory: 'astijusyelpdemo'
 end
